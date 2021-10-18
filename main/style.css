@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.product-container {
+    margin: 0 auto;
+    margin-top: 60px;
+    width: 650px;
+    height: auto;
+    padding:20px;
+    border: 1px solid #D5CABD;
+    border-radius: 8px;
+    background-color: #FBEAFF;
+    
+}
+#product-data {
+    display: flex;
+    justify-content: space-between;
+}
+
+::placeholder {
+    font-family: 'Times New Roman';
+    font-size: 13px;
+}
+
+#input-product,
+#input-quantity,
+#input-price {
+    width: 150px;
+    height: 30px;
+    font-family: 'Times New Roman';
+    font-size: 13px;
+    font-weight:lighter;
+    margin-right: 20px;
+    padding: 5px;
+    outline: none;
+    border: 1px solid #D5CABD;
+    border-radius: 5px;
+    
+}
+
+#button {
+    width: 28px;
+    height: 28px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    border: 1px solid #D5CABD;
+    border-radius: 50%;
+    background-color: #00C9A7;
+    color: #D9E8EE;
+    
+}
+
+.invoice {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 650px;
+    height: 250px;
+    border: 1px solid #D5CABD;
+    border-radius: 8px;
+    background-color: #FBEAFF;
+}
+
+.invoice-data {
+    border-radius: 5px;
+    background-color:#FEF6FF;
+    width: 600px;
+    height: 200px;
+    margin: 15px auto;
+}
+
+
+#table  {
+    width: 600px;
+    height: 30px;
+    font-size: 13px;
+}
+
+#table, th, td {
+    border: 1px solid #D5CABD;
+}
+
+.total-price {
+    margin-top: -10px;
+    margin-left: 24px;
+    background-color: #FEF6FF;
+    border: 1px solid #D5CABD;
+    border-radius: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    width: 150px;
+    height: 23px;
+    padding: 2px;
+}
+
+#message {
+    color: brown;
+}
