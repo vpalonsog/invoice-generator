@@ -18,6 +18,9 @@ If someone wants to add or improve something, I invite you to collaborate direct
 ## Preview
 [![Invoice Generator](https://i.imgur.com/bQvIScd.png "Invoice Generator")](https://i.imgur.com/bQvIScd.png "Invoice Generator")
 
+## Flowchart 
+[![Flowchart Invoice Generator](https://i.imgur.com/mfaQ2Er.png "Flowchart Invoice Generator")](https://i.imgur.com/mfaQ2Er.png "Flowchart Invoice Generator")
+
 
 ## License
 The MIT license 
